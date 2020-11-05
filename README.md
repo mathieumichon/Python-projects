@@ -1,2 +1,5 @@
 # Python-projects
-Here you'll find all my python projects and programs
+
+Here you will have access to all my python programs and projects
+
+michon@et.intechinfo.fr
