@@ -9,7 +9,6 @@
 # ==============
 
 from scapy.all import *
-from threading import *
 
 # we set a fixed unused IP (could be a used one but since we're looking for discretion, it would not be clever from us)
 target_address      = "213.213.213.213"
